@@ -1,0 +1,3 @@
+26/4: Tegno hachas las clases basicas (Usuario, Producto, Carrito, Pedido) me falta la BdD la clase que conecte cada clase con la BdD y crear un loguin.
+28/4: Ya hice la BdD, corregi las clase(usuario, producto, carrito, pedido) hice la clase conexion que genera una objeto que se conecta a al BdD,, me faltaria una clase login para que el usuario se logue (su vista es fromulario), despues hacer otra clase y vista para que el usuario se pueda registrar.
+2/5: Me falta terminar de agregar los metods del admin para poder (agregar, eliminar, etc) productos y despues hacer lo de mostrar el historial y poder seleccionar producto desde la clase usuario
